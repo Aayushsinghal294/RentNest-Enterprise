@@ -1,5 +1,5 @@
 import Navbar from "@/components/Navbar";
-import Landing from "./(nondashboard)/landing/page";
+import Landing from "./(nondashboard)/landing/Page";
 
 export default function Home() {
   return (
